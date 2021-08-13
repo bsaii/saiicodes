@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yawsaii
 - 👀 I’m interested in becoming a Full Stack Developer.
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on any project I can assist with my skills.
 - 📫 How to reach me: send me a dm on ig @_yawsaii
 
