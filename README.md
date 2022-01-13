@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bernard Sai</h1>
+<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm Bernard Sai</h1>
+
 <h3 align="center">A passionate full-stack developer from Ghana</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiicodes&label=Profile%20views&color=0e75b6&style=flat" alt="saiicodes" /> </p>
