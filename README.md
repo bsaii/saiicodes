@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/saiicodes" target="blank"><img src="https://img.shields.io/twitter/follow/saiicodes?logo=twitter&style=for-the-badge" alt="saiicodes" /></a> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://saiicodes-portfolio.vercel.app/](https://saiicodes-portfolio.vercel.app/)
 
