@@ -1,5 +1,5 @@
 <h1 align="left">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm Bernard Sai</h1>
-<h3 align="right">A passionate frontend developer from Ghana</h3>
+<h3 align="right">A passionate full stack web and blockchain developer from Ghana</h3>
 
 - 🔭 I’m currently working on **on something cool 😊**
 
